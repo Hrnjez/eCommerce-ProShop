@@ -1,7 +1,7 @@
 # eCommerce-ProShop
-___
+
 > ## Description: 
->___
+>
 >This is an eCommerce platform from the ground up with React, Redux, Express & MongoDB with the following:
 
 * React with Functional Components & Hooks
