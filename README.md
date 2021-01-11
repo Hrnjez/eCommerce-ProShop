@@ -15,6 +15,8 @@
 
 There is a link to deployed version: [eCommerce-ProShop](https://hrnjez.github.io/eCommerce-ProShop/)
 
+> The project is under construction, all the data is moved out of the frontend to the DB so it's not available anymore inside this version.
+
 
  
 
